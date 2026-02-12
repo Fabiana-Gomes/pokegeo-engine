@@ -1,0 +1,6 @@
+@PokeGeo.Engine_HostAddress = http://localhost:5010
+
+GET {{PokeGeo.Engine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
