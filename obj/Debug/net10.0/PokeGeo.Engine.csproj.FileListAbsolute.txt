@@ -31,3 +31,4 @@ C:\Users\Ouro Moderno\Documents\GitHub\testes\PokeGeo.Engine\obj\Debug\net10.0\r
 C:\Users\Ouro Moderno\Documents\GitHub\testes\PokeGeo.Engine\obj\Debug\net10.0\PokeGeo.Engine.pdb
 C:\Users\Ouro Moderno\Documents\GitHub\testes\PokeGeo.Engine\obj\Debug\net10.0\PokeGeo.Engine.genruntimeconfig.cache
 C:\Users\Ouro Moderno\Documents\GitHub\testes\PokeGeo.Engine\obj\Debug\net10.0\ref\PokeGeo.Engine.dll
+C:\Users\Ouro Moderno\Documents\GitHub\testes\PokeGeo.Engine\obj\Debug\net10.0\PokeGeo.Engine.sourcelink.json

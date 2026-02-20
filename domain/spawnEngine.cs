@@ -2,17 +2,17 @@ namespace PokeGeo.Engine.Domain;
 
 public class spawnEngine {
 
-    public PokemonType DetermineType(EnvironmentData environment)
+    public pokemonType DetermineType(EnviromentData environment)
     {
         if (environment.Temperature >= 30)
-            return PokemonType.Fire;
+            return pokemonType.Fire;
 
         if (environment.Biome == "Ocean")
-            return PokemonType.Water;
+            return pokemonType.Water;
 
         if (environment.Biome == "Forest")
-            return PokemonType.Grass;
+            return pokemonType.Grass;
 
-        return PokemonType.Normal;
+        return pokemonType.Normal;
     }
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PokeGeo.Engine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bbb8b7ab9c116ba1ccbfa81c94686aa6e613131")]
 [assembly: System.Reflection.AssemblyProductAttribute("PokeGeo.Engine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PokeGeo.Engine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
